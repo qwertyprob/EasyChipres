@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\c#\TSI\bin\Debug\TSI.exe.config
+C:\Users\asus\Desktop\c#\TSI\bin\Debug\TSI.exe
+C:\Users\asus\Desktop\c#\TSI\bin\Debug\TSI.pdb
+C:\Users\asus\Desktop\c#\TSI\obj\Debug\TSI.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\c#\TSI\obj\Debug\TSI.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\c#\TSI\obj\Debug\TSI.exe
+C:\Users\asus\Desktop\c#\TSI\obj\Debug\TSI.pdb
